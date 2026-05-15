@@ -1,0 +1,1 @@
+The goal of this project is to understand how firewalls can be installed and used to harden a PC and protect it from outside threats. I also want to understand how network traffic interacts with the firewall by analysing the traffic, which will help me to identify any necessary applications and shrink my host’s attack surface.
